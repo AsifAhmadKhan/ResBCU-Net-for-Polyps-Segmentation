@@ -1,5 +1,5 @@
 # ResBCU-Net-for-Polyps-Segmentation
-The notebook provides source of our [paper](https://www.ijew.io/paper/a-modified-memory-efficient-u-net-for-segmentation-of-polyps)
+The notebook provides source code of our [paper](https://www.ijew.io/paper/a-modified-memory-efficient-u-net-for-segmentation-of-polyps).
 
 We are very thankful for [nikhilroxtomar](https://github.com/nikhilroxtomar) for the source [code](https://github.com/nikhilroxtomar/Polyp-Segmentation-using-UNET-in-TensorFlow-2.0).
 
